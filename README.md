@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jared Cole
 - 👀 I’m interested in coding fun projects.
-- 🌱 I’m currently an undergraduate at The Pennsylvania State University, majoring in Computer Science.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently an undergraduate at The Pennsylvania State University, majoring in Computer Science and minoring in Statistics.
+- 💞️ I’m looking to collaborate on any interesting and unique projects that come my way.
 - 📫 You can reach me via email at jccole09@gmail.com
 
 <!---
